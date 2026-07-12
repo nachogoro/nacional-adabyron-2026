@@ -38,6 +38,10 @@ estallido 3: ahora los dos subcastillos del estallido inicial duran dos compases
 falle la estrella que falle, el castillo sigue siendo armonioso, de modo que sí es
 robusto.
 
+![Los dos castillos del ejemplo: el de la izquierda no es robusto, el de la derecha sí](images/castillos_ejemplo.png)
+
+*Figura 1: Los dos castillos del ejemplo.*
+
 ## Entrada
 
 La primera línea contiene un entero $T$ ($0 \le T \le 10^4$), el número de

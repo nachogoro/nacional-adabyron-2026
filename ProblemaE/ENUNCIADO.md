@@ -32,6 +32,8 @@ ningún momento del recorrido un agarre puede estar ocupado por más de un tent�
 En el siguiente esquema se ve cómo el pulpo recoloca un tentáculo del agarre $A$ al
 agarre $D$ mientras los otros dos permanecen sujetos a $B$ y $C$.
 
+![Movimiento ordinario: el pulpo recoloca un tentáculo del agarre A al D](images/movimiento_ordinario.png)
+
 Una única vez durante el recorrido, el pulpo puede ejecutar una maniobra especial
 llamada **estiramiento**. En ella, conservando dos tentáculos sujetos a sus
 agarres con longitud no mayor que $L$, alarga el tercero hasta una longitud no
@@ -48,6 +50,8 @@ En el siguiente esquema se puede ver cómo, desde la posición inicial, el pulpo
 alarga un tentáculo hasta el agarre $E$ (con longitud $\le 2L$), suelta los otros
 dos y queda colgando; después recupera una posición segura agarrándose a $F$ con un
 tentáculo normal.
+
+![Estiramiento: posición inicial, estiramiento hasta E, cuelgue y reenganche en F](images/estiramiento.png)
 
 Conviene recalcar que el estiramiento es la única manera que tiene el pulpo de
 soltar dos tentáculos a la vez y reorganizar a qué pares de agarres se sujeta.
